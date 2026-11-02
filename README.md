@@ -1,4 +1,8 @@
+<div align="center">
 
+![Banner de Martin Ramos](./GitHub_Martin_Ramos_Desarrollo_Automatizacion_TI.gif)
+
+</div>
 # 👋 ¡Hola! Soy Martín Ramos
 
 ### 👨‍💻 Ingeniero en Computación | Desarrollo de Software y Automatización
