@@ -6,7 +6,7 @@
 
 </div>
 
-# 👋 ¡Hola! Soy Martin Ramos
+# 💻 Sobre mí
 
 ### 👨‍💻 Ingeniero en Computación | Desarrollo de Software • Automatización • TI
 
